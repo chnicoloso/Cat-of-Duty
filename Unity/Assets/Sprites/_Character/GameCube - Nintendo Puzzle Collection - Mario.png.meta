@@ -1,0 +1,773 @@
+fileFormatVersion: 2
+guid: 9c9957f57f4f046e1bffd424631bbe53
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: GameCube - Nintendo Puzzle Collection - Mario_0
+    21300002: GameCube - Nintendo Puzzle Collection - Mario_1
+    21300004: GameCube - Nintendo Puzzle Collection - Mario_2
+    21300006: GameCube - Nintendo Puzzle Collection - Mario_3
+    21300008: GameCube - Nintendo Puzzle Collection - Mario_4
+    21300010: GameCube - Nintendo Puzzle Collection - Mario_5
+    21300012: GameCube - Nintendo Puzzle Collection - Mario_6
+    21300014: GameCube - Nintendo Puzzle Collection - Mario_7
+    21300016: GameCube - Nintendo Puzzle Collection - Mario_8
+    21300018: GameCube - Nintendo Puzzle Collection - Mario_9
+    21300020: GameCube - Nintendo Puzzle Collection - Mario_10
+    21300022: GameCube - Nintendo Puzzle Collection - Mario_11
+    21300024: GameCube - Nintendo Puzzle Collection - Mario_12
+    21300026: GameCube - Nintendo Puzzle Collection - Mario_13
+    21300028: GameCube - Nintendo Puzzle Collection - Mario_14
+    21300030: GameCube - Nintendo Puzzle Collection - Mario_15
+    21300032: GameCube - Nintendo Puzzle Collection - Mario_16
+    21300034: GameCube - Nintendo Puzzle Collection - Mario_17
+    21300036: GameCube - Nintendo Puzzle Collection - Mario_18
+    21300038: GameCube - Nintendo Puzzle Collection - Mario_19
+    21300040: GameCube - Nintendo Puzzle Collection - Mario_20
+    21300042: GameCube - Nintendo Puzzle Collection - Mario_21
+    21300044: GameCube - Nintendo Puzzle Collection - Mario_22
+    21300046: GameCube - Nintendo Puzzle Collection - Mario_23
+    21300048: GameCube - Nintendo Puzzle Collection - Mario_24
+    21300050: GameCube - Nintendo Puzzle Collection - Mario_25
+    21300052: GameCube - Nintendo Puzzle Collection - Mario_26
+    21300054: GameCube - Nintendo Puzzle Collection - Mario_27
+    21300056: GameCube - Nintendo Puzzle Collection - Mario_28
+    21300058: GameCube - Nintendo Puzzle Collection - Mario_29
+    21300060: GameCube - Nintendo Puzzle Collection - Mario_30
+    21300062: GameCube - Nintendo Puzzle Collection - Mario_31
+    21300064: GameCube - Nintendo Puzzle Collection - Mario_32
+    21300066: GameCube - Nintendo Puzzle Collection - Mario_33
+    21300068: GameCube - Nintendo Puzzle Collection - Mario_34
+    21300070: GameCube - Nintendo Puzzle Collection - Mario_35
+    21300072: GameCube - Nintendo Puzzle Collection - Mario_36
+    21300074: GameCube - Nintendo Puzzle Collection - Mario_37
+    21300076: GameCube - Nintendo Puzzle Collection - Mario_38
+    21300078: GameCube - Nintendo Puzzle Collection - Mario_39
+    21300080: GameCube - Nintendo Puzzle Collection - Mario_40
+    21300082: GameCube - Nintendo Puzzle Collection - Mario_41
+    21300084: GameCube - Nintendo Puzzle Collection - Mario_42
+    21300086: GameCube - Nintendo Puzzle Collection - Mario_43
+    21300088: GameCube - Nintendo Puzzle Collection - Mario_44
+    21300090: GameCube - Nintendo Puzzle Collection - Mario_45
+    21300092: GameCube - Nintendo Puzzle Collection - Mario_46
+    21300094: GameCube - Nintendo Puzzle Collection - Mario_47
+    21300096: GameCube - Nintendo Puzzle Collection - Mario_48
+    21300098: GameCube - Nintendo Puzzle Collection - Mario_49
+    21300100: GameCube - Nintendo Puzzle Collection - Mario_50
+    21300102: GameCube - Nintendo Puzzle Collection - Mario_51
+    21300104: GameCube - Nintendo Puzzle Collection - Mario_52
+    21300106: GameCube - Nintendo Puzzle Collection - Mario_53
+    21300108: GameCube - Nintendo Puzzle Collection - Mario_54
+    21300110: GameCube - Nintendo Puzzle Collection - Mario_55
+    21300112: GameCube - Nintendo Puzzle Collection - Mario_56
+    21300114: GameCube - Nintendo Puzzle Collection - Mario_57
+    21300116: GameCube - Nintendo Puzzle Collection - Mario_58
+    21300118: GameCube - Nintendo Puzzle Collection - Mario_59
+    21300120: GameCube - Nintendo Puzzle Collection - Mario_60
+    21300122: GameCube - Nintendo Puzzle Collection - Mario_61
+    21300124: GameCube - Nintendo Puzzle Collection - Mario_62
+    21300126: GameCube - Nintendo Puzzle Collection - Mario_63
+    21300128: GameCube - Nintendo Puzzle Collection - Mario_64
+    21300130: GameCube - Nintendo Puzzle Collection - Mario_65
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: GameCube - Nintendo Puzzle Collection - Mario_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 670
+        width: 52
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 670
+        width: 46
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 671
+        width: 48
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 668
+        width: 48
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 675
+        width: 58
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_5
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 673
+        width: 58
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_6
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 672
+        width: 69
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_7
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 669
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_8
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 667
+        width: 70
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_9
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 665
+        width: 70
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_10
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 664
+        width: 72
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_11
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 668
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_12
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 575
+        width: 48
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 574
+        width: 55
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_14
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 580
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_15
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 573
+        width: 54
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_16
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 574
+        width: 69
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_17
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 568
+        width: 70
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 570
+        width: 69
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_19
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 572
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_20
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 568
+        width: 70
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_21
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 570
+        width: 71
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_22
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 466
+        width: 58
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_23
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 467
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_24
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 472
+        width: 83
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_25
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 466
+        width: 91
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_26
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 466
+        width: 96
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_27
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 445
+        width: 67
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_28
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 444
+        width: 66
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_29
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 448
+        width: 76
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_30
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 463
+        width: 70
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_31
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 319
+        width: 76
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_32
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 319
+        width: 50
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_33
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 319
+        width: 58
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 318
+        width: 57
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_35
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 318
+        width: 48
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_36
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 335
+        width: 72
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_37
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 336
+        width: 68
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_38
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 335
+        width: 68
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_39
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 339
+        width: 67
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_40
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 331
+        width: 70
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_41
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 217
+        width: 48
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_42
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 216
+        width: 70
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_43
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 216
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_44
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 216
+        width: 80
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_45
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 216
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_46
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 207
+        width: 72
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_47
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 207
+        width: 62
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_48
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 213
+        width: 66
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_49
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 217
+        width: 73
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_50
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 218
+        width: 83
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_51
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 112
+        width: 62
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_52
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 123
+        width: 81
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_53
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 114
+        width: 74
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_54
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 114
+        width: 69
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_55
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 114
+        width: 69
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_56
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 94
+        width: 52
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_57
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 94
+        width: 48
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_58
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 94
+        width: 47
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_59
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 92
+        width: 73
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_60
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 95
+        width: 77
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_61
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 100
+        width: 86
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_62
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2
+        width: 82
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_63
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 3
+        width: 79
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_64
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2
+        width: 75
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameCube - Nintendo Puzzle Collection - Mario_65
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 3
+        width: 80
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
