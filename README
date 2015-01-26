@@ -1,1 +1,6 @@
 This repo contains all my work done in AP Computer Science class
+To run the class, make sure to compile and run the java file that contains the main method.
+javac [file name].java to compile
+java [file name] to run.
+All projects use Java 1.7
+BugRunner uses the GridWorld Api licensed by the AP Computer Science Curriculum.
